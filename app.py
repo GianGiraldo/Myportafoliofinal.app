@@ -52,7 +52,7 @@ if modulo == "Home":
     st.markdown("---")
 
     st.markdown("✅ **Breve Explicación:** En esta especializacion pude comprender los parámetros que se utilizan para programar aplicacion en Phyton, con herramientas de librerias, y archivo de trabajo en el cual su extrae la informacion para poder resolver operaciones y que podremos optimizar el trabajo desarrollando estas aplicaciones automatizando los procesos con el aplicativo")
-    st.info("Este proyecto utiliza Python, Pandas, Matplotlib, Seaborn y Streamlit[cite: 34].")
+    st.info("Este proyecto utiliza Python, Pandas, Matplotlib, Seaborn y Streamlit.")
 
 # --- MÓDULO 2: CARGA DEL DATASET ---
 elif modulo == "Carga de Datos":
@@ -138,4 +138,5 @@ st.markdown("""
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="100">
     </div>
     """, unsafe_allow_html=True)
+
 
