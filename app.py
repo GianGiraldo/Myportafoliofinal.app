@@ -51,7 +51,7 @@ if modulo == "Home":
     st.markdown("✅ **Fecha:** Marzo 2026")
     st.markdown("---")
 
-    st.markdown("✅ **Breve Explicación:** En esta especializacion pude comprender los parámetros que se utilizan para programar aplicacion en Phyton, con herramientas de librerias, y archivo de trabajo en el cual su extrae la informacion para poder resolver operaciones y que podremos optimizar el trabajo desarrollando estas aplicaciones automatizando los procesos con el aplicativo")
+    st.markdown("✅ **Breve Explicación:** Durante esta especialización en Python for Analytics, logré comprender los principales parámetros y fundamentos para desarrollar aplicaciones utilizando Python. Aprendí a trabajar con diversas librerías y archivos de datos, que permiten extraer información y realizar operaciones para resolver problemas de manera eficiente. Asimismo, esta formación me permitió entender cómo optimizar el trabajo mediante el desarrollo de aplicaciones que automatizan procesos, mejorando la gestión y el análisis de información. Me siento muy satisfecho con la enseñanza del docente, quien explicó los contenidos de manera didáctica y práctica, utilizando ejemplos claros, lo que facilitó el aprendizaje y el uso de herramientas y librerías de Python aplicadas al análisis de datos")
     st.info("Este proyecto utiliza Python, Pandas, Matplotlib, Seaborn y Streamlit.")
 
 # --- MÓDULO 2: CARGA DEL DATASET ---
@@ -138,5 +138,6 @@ st.markdown("""
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6NHJ4ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="100">
     </div>
     """, unsafe_allow_html=True)
+
 
 
